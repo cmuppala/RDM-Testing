@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <!-- <class name="com.iqvia.testscript.RDM_MandatoryField_Verification_Panel"/>
+      <class name="com.iqvia.testscript.RDM_NonGeoBrick_BoundaryType_Insertion"/> -->
+      
+      <class name="com.iqvia.testscript.RDM_Panel_Insertion"/>
+      <class name="com.iqvia.testscript.RDM_Panel_Updation"/>
+      <class name="com.iqvia.testscript.RDM_Duplicate_PanelMember"/>
+      <!-- <class name="com.iqvia.testscript.RDM_Duplicate_BoundaryType"/>
+      <class name="com.iqvia.testscript.RDM_NonGeoBrick_BoundaryType_Update_Delete"/> -->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

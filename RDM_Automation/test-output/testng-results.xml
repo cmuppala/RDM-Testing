@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="222329" started-at="2018-04-19T12:42:24Z" finished-at="2018-04-19T12:46:07Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="222329" started-at="2018-04-19T12:42:24Z" finished-at="2018-04-19T12:46:07Z">
+      <class name="com.iqvia.testscript.RDM_Duplicate_PanelMember">
+        <test-method status="PASS" signature="reportconfig()[pri:0, instance:com.iqvia.testscript.RDM_Duplicate_PanelMember@21a06946]" name="reportconfig" is-config="true" duration-ms="18" started-at="2018-04-19T18:15:08Z" finished-at="2018-04-19T18:15:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportconfig -->
+        <test-method status="PASS" signature="rdm_Duplicate_PanelMember()[pri:0, instance:com.iqvia.testscript.RDM_Duplicate_PanelMember@21a06946]" name="rdm_Duplicate_PanelMember" duration-ms="58871" started-at="2018-04-19T18:15:08Z" finished-at="2018-04-19T18:16:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rdm_Duplicate_PanelMember -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.iqvia.testscript.RDM_Duplicate_PanelMember@21a06946]" name="teardown" is-config="true" duration-ms="27" started-at="2018-04-19T18:16:07Z" finished-at="2018-04-19T18:16:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.iqvia.testscript.RDM_Panel_Insertion@3ecf72fd]" name="teardown" is-config="true" duration-ms="7" started-at="2018-04-19T18:16:07Z" finished-at="2018-04-19T18:16:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.iqvia.testscript.RDM_Panel_Updation@483bf400]" name="teardown" is-config="true" duration-ms="7" started-at="2018-04-19T18:16:07Z" finished-at="2018-04-19T18:16:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.iqvia.testscript.RDM_Duplicate_PanelMember -->
+      <class name="com.iqvia.testscript.RDM_Panel_Updation">
+        <test-method status="PASS" signature="reportconfig()[pri:0, instance:com.iqvia.testscript.RDM_Panel_Updation@483bf400]" name="reportconfig" is-config="true" duration-ms="7" started-at="2018-04-19T18:13:16Z" finished-at="2018-04-19T18:13:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportconfig -->
+        <test-method status="PASS" signature="rdm_Panel_Updation()[pri:0, instance:com.iqvia.testscript.RDM_Panel_Updation@483bf400]" name="rdm_Panel_Updation" duration-ms="111895" started-at="2018-04-19T18:13:16Z" finished-at="2018-04-19T18:15:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rdm_Panel_Updation -->
+      </class> <!-- com.iqvia.testscript.RDM_Panel_Updation -->
+      <class name="com.iqvia.testscript.RDM_Panel_Insertion">
+        <test-method status="PASS" signature="reportconfig()[pri:0, instance:com.iqvia.testscript.RDM_Panel_Insertion@3ecf72fd]" name="reportconfig" is-config="true" duration-ms="54" started-at="2018-04-19T18:12:24Z" finished-at="2018-04-19T18:12:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportconfig -->
+        <test-method status="PASS" signature="rdm_Panel_Insertion()[pri:0, instance:com.iqvia.testscript.RDM_Panel_Insertion@3ecf72fd]" name="rdm_Panel_Insertion" duration-ms="51420" started-at="2018-04-19T18:12:24Z" finished-at="2018-04-19T18:13:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rdm_Panel_Insertion -->
+      </class> <!-- com.iqvia.testscript.RDM_Panel_Insertion -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
